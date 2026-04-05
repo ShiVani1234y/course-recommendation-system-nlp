@@ -60,12 +60,6 @@ Udemy-Course-Recommendation-System/
 │   ├── index.html
 │   └── dashboard.html
 │
-├── static/ (optional)      # CSS / JS / images (if any)
-│
-├── screenshots/            # For README images
-│   ├── home.png
-│   ├── recommendation.png
-│   └── dashboard.png
 │
 ├── notebooks/ (optional)   # Jupyter notebooks (EDA / experiments)
 │
