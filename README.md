@@ -61,7 +61,7 @@ Udemy-Course-Recommendation-System/
 │   └── dashboard.html
 │
 │
-├── notebooks/ (optional)   # Jupyter notebooks (EDA / experiments)
+├── notebooks               # Jupyter notebooks (EDA / experiments)
 │
 └── .gitignore              # Ignore unnecessary files
 ```
