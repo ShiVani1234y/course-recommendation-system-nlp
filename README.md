@@ -43,3 +43,15 @@ This project is a **content-based course recommendation system** that suggests s
 ---
 
 ## 📁 Project Structure  
+Udemy-Recommendation-System/
+│
+├── app.py
+├── dashboard.py
+├── requirements.txt
+├── UdemyCleanedTitle.csv
+│
+├── templates/
+│ ├── index.html
+│ └── dashboard.html
+│
+└── README.md
