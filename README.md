@@ -43,15 +43,28 @@ This project is a **content-based course recommendation system** that suggests s
 ---
 
 ## 📁 Project Structure  
-Udemy-Recommendation-System/
+Udemy-Course-Recommendation-System/
 │
-├── app.py
-├── dashboard.py
-├── requirements.txt
-├── UdemyCleanedTitle.csv
+├── app.py                  # Main Flask application
+├── dashboard.py            # Analytics & visualization logic
+├── requirements.txt        # All dependencies
+├── Procfile                # For deployment (Render/Heroku)
+├── README.md               # Project documentation
 │
-├── templates/
-│ ├── index.html
-│ └── dashboard.html
+├── dataset/                # Dataset folder
+│   └── UdemyCleanedTitle.csv
 │
-└── README.md
+├── templates/              # HTML files (Flask templates)
+│   ├── index.html
+│   └── dashboard.html
+│
+├── static/ (optional)      # CSS / JS / images (if any)
+│
+├── screenshots/            # For README images
+│   ├── home.png
+│   ├── recommendation.png
+│   └── dashboard.png
+│
+├── notebooks/ (optional)   # Jupyter notebooks (EDA / experiments)
+│
+└── .gitignore              # Ignore unnecessary files
