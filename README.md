@@ -1,4 +1,3 @@
-# course-recommendation-system-nlp
 # 📌 Udemy Course Recommendation System with Analytics Dashboard
 
 ## 📖 Overview  
@@ -42,7 +41,10 @@ This project is a **content-based course recommendation system** that suggests s
 
 ---
 
-## 📁 Project Structure  
+## 📁 Project Structure 
+
+```
+
 Udemy-Course-Recommendation-System/
 │
 ├── app.py                  # Main Flask application
@@ -68,3 +70,5 @@ Udemy-Course-Recommendation-System/
 ├── notebooks/ (optional)   # Jupyter notebooks (EDA / experiments)
 │
 └── .gitignore              # Ignore unnecessary files
+```
+
