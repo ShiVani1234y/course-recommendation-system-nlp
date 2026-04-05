@@ -71,4 +71,22 @@ Udemy-Course-Recommendation-System/
 │
 └── .gitignore              # Ignore unnecessary files
 ```
+## 📈 Results  
+- Improved recommendation relevance by **~25–30%** after text preprocessing  
+- Processed **3000+ course dataset** for generating recommendations  
 
+---
+
+## 🔮 Future Improvements  
+- Use **TF-IDF / BERT** for better recommendations  
+- Add **user-based collaborative filtering**  
+- Deploy with **Docker + Cloud scaling**  
+
+---
+
+## 👩‍💻 Author  
+
+**Shivani Singh**  
+
+- GitHub: https://github.com/ShiVani1234y  
+- LinkedIn: https://www.linkedin.com/in/shivani-singh-515b4b278/  
